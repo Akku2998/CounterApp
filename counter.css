@@ -1,0 +1,45 @@
+body{
+   
+    text-align: center;
+    background-color: aqua;
+}
+.counter{
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+.counter-view{
+    font-size: 150px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+.increment{
+    background-color: yellow;
+}
+.reset{
+    background-color: rgb(227, 107, 15);
+}
+.decrement{
+    background-color: blue;
+}
+.stop{
+    background-color: red;
+}
+.autoIncrement{
+    background-color: rgb(228, 22, 91);
+}
+.autoDecrement{
+    background-color: rgb(228, 20, 228);
+}
+button{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.time{
+    text-align: center;
+    background-color: rgb(147, 216, 17);
+}
